@@ -1,0 +1,16 @@
+.heading-wrapper {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  .heading {
+    margin-top: 15px;
+    color: $javascript-yellow;
+  }
+  .logo {
+    width:200px;
+    height: auto;
+  }
+}
